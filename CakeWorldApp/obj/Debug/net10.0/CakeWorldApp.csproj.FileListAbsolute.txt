@@ -1,0 +1,15 @@
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/CakeWorldApp/bin/Debug/net10.0/CakeWorldApp
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/CakeWorldApp/bin/Debug/net10.0/CakeWorldApp.deps.json
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/CakeWorldApp/bin/Debug/net10.0/CakeWorldApp.runtimeconfig.json
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/CakeWorldApp/bin/Debug/net10.0/CakeWorldApp.dll
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/CakeWorldApp/bin/Debug/net10.0/CakeWorldApp.pdb
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/CakeWorldApp/obj/Debug/net10.0/CakeWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/CakeWorldApp/obj/Debug/net10.0/CakeWorldApp.AssemblyInfoInputs.cache
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/CakeWorldApp/obj/Debug/net10.0/CakeWorldApp.AssemblyInfo.cs
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/CakeWorldApp/obj/Debug/net10.0/CakeWorldApp.csproj.CoreCompileInputs.cache
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/CakeWorldApp/obj/Debug/net10.0/CakeWorldApp.sourcelink.json
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/CakeWorldApp/obj/Debug/net10.0/CakeWorldApp.dll
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/CakeWorldApp/obj/Debug/net10.0/refint/CakeWorldApp.dll
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/CakeWorldApp/obj/Debug/net10.0/CakeWorldApp.pdb
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/CakeWorldApp/obj/Debug/net10.0/CakeWorldApp.genruntimeconfig.cache
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/CakeWorldApp/obj/Debug/net10.0/ref/CakeWorldApp.dll
