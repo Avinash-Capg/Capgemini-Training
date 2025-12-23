@@ -1,0 +1,14 @@
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/day2Demo/bin/Debug/net10.0/day2Demo
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/day2Demo/bin/Debug/net10.0/day2Demo.deps.json
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/day2Demo/bin/Debug/net10.0/day2Demo.runtimeconfig.json
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/day2Demo/bin/Debug/net10.0/day2Demo.dll
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/day2Demo/bin/Debug/net10.0/day2Demo.pdb
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/day2Demo/obj/Debug/net10.0/day2Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/day2Demo/obj/Debug/net10.0/day2Demo.AssemblyInfoInputs.cache
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/day2Demo/obj/Debug/net10.0/day2Demo.AssemblyInfo.cs
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/day2Demo/obj/Debug/net10.0/day2Demo.csproj.CoreCompileInputs.cache
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/day2Demo/obj/Debug/net10.0/day2Demo.dll
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/day2Demo/obj/Debug/net10.0/refint/day2Demo.dll
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/day2Demo/obj/Debug/net10.0/day2Demo.pdb
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/day2Demo/obj/Debug/net10.0/day2Demo.genruntimeconfig.cache
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/day2Demo/obj/Debug/net10.0/ref/day2Demo.dll

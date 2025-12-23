@@ -1,0 +1,14 @@
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/bin/Debug/net10.0/LPUExercise
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/bin/Debug/net10.0/LPUExercise.deps.json
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/bin/Debug/net10.0/LPUExercise.runtimeconfig.json
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/bin/Debug/net10.0/LPUExercise.dll
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/bin/Debug/net10.0/LPUExercise.pdb
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/obj/Debug/net10.0/LPUExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/obj/Debug/net10.0/LPUExercise.AssemblyInfoInputs.cache
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/obj/Debug/net10.0/LPUExercise.AssemblyInfo.cs
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/obj/Debug/net10.0/LPUExercise.csproj.CoreCompileInputs.cache
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/obj/Debug/net10.0/LPUExercise.dll
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/obj/Debug/net10.0/refint/LPUExercise.dll
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/obj/Debug/net10.0/LPUExercise.pdb
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/obj/Debug/net10.0/LPUExercise.genruntimeconfig.cache
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/obj/Debug/net10.0/ref/LPUExercise.dll

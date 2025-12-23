@@ -1,0 +1,14 @@
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/sms/obj/Debug/net10.0/sms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/sms/obj/Debug/net10.0/sms.AssemblyInfoInputs.cache
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/sms/obj/Debug/net10.0/sms.AssemblyInfo.cs
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/sms/obj/Debug/net10.0/sms.csproj.CoreCompileInputs.cache
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/sms/bin/Debug/net10.0/sms
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/sms/bin/Debug/net10.0/sms.deps.json
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/sms/bin/Debug/net10.0/sms.runtimeconfig.json
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/sms/bin/Debug/net10.0/sms.dll
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/sms/bin/Debug/net10.0/sms.pdb
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/sms/obj/Debug/net10.0/sms.dll
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/sms/obj/Debug/net10.0/refint/sms.dll
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/sms/obj/Debug/net10.0/sms.pdb
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/sms/obj/Debug/net10.0/sms.genruntimeconfig.cache
+/Users/avinashkumar/Desktop/Capgemini Training /LPUExercise/sms/obj/Debug/net10.0/ref/sms.dll
